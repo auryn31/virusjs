@@ -1,0 +1,17 @@
+{
+  "name": "virusjs",
+  "version": "0.0.2",
+  "description": "This package will show you, if you would get in any trouble with preinstall...",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js",
+    "preinstall": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "the repositories url"
+  },
+  "author": "Auryn Engel",
+  "license": "MIT"
+}
